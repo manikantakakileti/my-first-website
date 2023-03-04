@@ -1,2 +1,2 @@
-# my_first-website
+# my first website
 create my first website
